@@ -32,7 +32,7 @@ We welcome contributions from the community! If you'd like to contribute to Genn
 
 ## License
 
-Gennai is open-source software licensed under the [GPL-3.0 License].
+Gennai is open-source software licensed under the [GPL-3.0 License](LICENSE).
 
 ## Contact
 
